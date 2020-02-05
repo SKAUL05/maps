@@ -78,7 +78,7 @@ folium.CircleMarker(
 ).add_to(_MAP_OBJECT)
 
 # Geojson overlay
-folium.GeoJson(_OVERLAY, name="Jammu").add_to(_MAP_OBJECT)
+folium.GeoJson(_OVERLAY, name="Jammu Tawi").add_to(_MAP_OBJECT)
 
 # Generate map
 _MAP_OBJECT.save("./html/index.html")
