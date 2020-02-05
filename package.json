@@ -1,0 +1,22 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "Data Driven Maps with Folium and Leaflet.js",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKAUL05/maps.git"
+  },
+  "author": "Sarath Kaul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SKAUL05/maps/issues"
+  },
+  "homepage": "https://github.com/SKAUL05/maps#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}

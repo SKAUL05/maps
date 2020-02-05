@@ -81,4 +81,4 @@ folium.CircleMarker(
 folium.GeoJson(_OVERLAY, name="Jammu").add_to(_MAP_OBJECT)
 
 # Generate map
-_MAP_OBJECT.save("map.html")
+_MAP_OBJECT.save("./html/index.html")
