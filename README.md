@@ -34,6 +34,7 @@ python map.py
 - `Python`
 - `Folium`
 - `Leaflet.js`
+- `Netlify`
 
 ## Contributing
 
